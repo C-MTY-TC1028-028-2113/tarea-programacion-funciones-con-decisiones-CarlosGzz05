@@ -1,3 +1,4 @@
+#Este codigo esta resuelto 
 def calcula_grado(grado):
     if grado < 0.0 or grado > 1.0:
         nota = "score incorrecto"

@@ -1,3 +1,4 @@
+#Este codigo esta resuelto 
 def tarjetas(pliegos,plumones):
     
     tarjetasPliegos = pliegos*12
